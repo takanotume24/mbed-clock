@@ -12,11 +12,6 @@ extern DigitalIn pushButton4;
 extern DigitalIn pushButton5;
 extern DigitalIn pushButton6;
 
-extern DigitalOut led1;
-extern DigitalOut led2;
-extern DigitalOut led3;
-extern DigitalOut led4;
-
 extern PwmOut buzzerPin;
 
 extern Serial pc;
